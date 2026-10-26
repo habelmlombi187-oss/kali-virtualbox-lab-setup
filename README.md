@@ -92,8 +92,6 @@ Planned screenshots:
 - Network settings
 - Successfully booted Kali desktop
 
-Before uploading screenshots, check that they do not expose passwords, private files, or other sensitive information.
-
 ## Safety Notes
 
 This project is intended for educational use in a controlled environment. Only test systems you own or have explicit permission to assess. Keep software updated and choose network settings appropriate to the lab.
