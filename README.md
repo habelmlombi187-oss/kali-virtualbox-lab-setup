@@ -50,14 +50,17 @@ Open VirtualBox Manager and choose **Machine → Add**. Browse to the extracted 
 If your download is an `.ova` file instead, use **File → Import Appliance**.
 
 ### 6. Configure the Virtual Machine
+![Virtualbox network setting](setting-network-in-virtualbox.png)
 
 Open the VM settings and review the available RAM, CPU, storage, and network options. Start with modest resource allocations so Windows continues to run smoothly.
 
 ### 7. Configure Networking
+![Kali Linux net settings](kali-net-config.png)
 
 For an initial setup, use **NAT** under **Settings → Network → Adapter 1**. NAT is generally a sensible default for outbound connectivity without directly placing the VM on the physical local network.
 
 ### 8. Start Kali Linux
+![Kali Linux desktop start](starting-kali.png)
 
 Select the VM and click **Start**. Use the credentials documented for your downloaded image. Some official pre-built images have used `kali` as both username and password, but credentials may vary by release.
 
