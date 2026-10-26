@@ -37,7 +37,7 @@ If the Kali download is a `.7z` archive, install [7-Zip](https://www.7-zip.org/)
 Visit the [official Kali Linux Virtual Machines page](https://www.kali.org/get-kali/#kali-virtual-machines) and download the pre-built VirtualBox image.
 
 ### 4. Extract the Image
-![Kali Linux extraction](file extraction.png)
+![Kali Linux extraction](file-extraction.png)
 
 Open the Downloads folder, right-click the downloaded archive, and choose **7-Zip → Extract to...**. In the extracted folder, look for the `.vbox` configuration file and `.vdi` virtual disk.
 
