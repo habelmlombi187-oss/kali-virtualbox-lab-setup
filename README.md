@@ -77,15 +77,7 @@ Record the results and document any setup issues you encounter.
 ```text
 kali-virtualbox-lab-setup/
 ├── README.md
-├── LICENSE
-├── .gitignore
-├── CONTRIBUTING.md
-├── SECURITY.md
-├── docs/
-│   └── lab-screenshots/
-│       └── README.md
-└── configs/
-    └── network-notes.txt
+
 ```
 
 ## Screenshots
